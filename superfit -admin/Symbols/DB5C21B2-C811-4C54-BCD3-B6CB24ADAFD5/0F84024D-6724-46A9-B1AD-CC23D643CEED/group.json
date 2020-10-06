@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": 0,
-  "changeIdentifier": 140,
   "clippingMaskMode": 0,
-  "do_objectID": "C76E5102-A8A2-4E26-A5AE-BD435A57761C",
+  "do_objectID": "0F84024D-6724-46A9-B1AD-CC23D643CEED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,55 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 60,
-    "x": 4220,
+    "height": 150,
+    "width": 267,
+    "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "9E47E70A-9E0A-4DD6-A95F-87028B7AB456"
-    }
-  ],
-  "name": "Base/Text/Blue Left",
-  "nameIsFixed": true,
-  "overrideProperties": [
+      "class": "symbolInstance",
+      "id": "013201AC-82E0-46BD-9F45-8318F6F396B6"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9E47E70A-9E0A-4DD6-A95F-87028B7AB456_stringValue"
+      "class": "rectangle",
+      "id": "315358B5-1635-40D4-9612-D4E82FB94E50"
+    },
+    {
+      "class": "text",
+      "id": "D8BEE9A5-E9A3-4700-9011-A82516D5F6F1"
+    },
+    {
+      "class": "text",
+      "id": "DD201F96-81BC-4BA6-988A-F1655200470B"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Card Metric Small",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -107,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "93DFFC6C-8030-4871-9614-60FFA5BCBC03",
+    "do_objectID": "63317309-2565-4B36-B8D3-7D0DCC0CFE88",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,17 +101,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0F5737FD-5A77-4F56-9C52-8066EA61ED31",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

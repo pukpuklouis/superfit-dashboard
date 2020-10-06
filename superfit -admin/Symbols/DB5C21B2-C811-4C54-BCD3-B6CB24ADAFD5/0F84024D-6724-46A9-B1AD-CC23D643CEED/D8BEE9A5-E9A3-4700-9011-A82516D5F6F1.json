@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3019607843137255,
-            "green": 0.2196078431372549,
-            "red": 0.1803921568627451
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "Text"
+    "string": "預約諮詢"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "02111495-F07F-4FE5-989B-727DB9404F2B",
+  "do_objectID": "D8BEE9A5-E9A3-4700-9011-A82516D5F6F1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 22,
     "width": 60,
-    "x": 0,
-    "y": -2
+    "x": 29,
+    "y": 19
   },
-  "glyphBounds": "{{0, 6}, {31, 12}}",
+  "glyphBounds": "{{0, 4}, {60, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,12 +63,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "↳ ✏️ Value",
+  "lineSpacingBehaviour": 3,
+  "name": "appointment",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E1771B06-362F-44A3-A90E-7164876B5677",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -104,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E527F99D-E4AD-41BB-A015-B3ABAA8D0D04",
+    "do_objectID": "BC6347F9-942D-4376-8716-6F06959247E9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,9 +121,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3019607843137255,
-          "green": 0.2196078431372549,
-          "red": 0.1803921568627451
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -142,11 +143,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

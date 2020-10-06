@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 195,
+  "changeIdentifier": 272,
   "clippingMaskMode": 0,
   "do_objectID": "5C959EF5-48CA-4428-ABA7-6005828BDE0E",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "02111495-F07F-4FE5-989B-727DB9404F2B"
     }
   ],
-  "name": "Base/Text/Black",
+  "name": "Base/Text/Black Left",
   "nameIsFixed": true,
   "overrideProperties": [
     {

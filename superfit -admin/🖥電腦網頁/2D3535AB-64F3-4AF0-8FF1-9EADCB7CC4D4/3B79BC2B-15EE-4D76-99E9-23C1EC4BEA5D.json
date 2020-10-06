@@ -58,28 +58,43 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "5F3A47F7-E0CB-44BE-A8C5-BF2A120E9002/5D514508-F37B-44A0-B7DD-1A92A5E7BDD0_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "CEEBF045-9C1B-47A1-8420-D1E134D52B47/5D514508-F37B-44A0-B7DD-1A92A5E7BDD0_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0CC1D74D-839C-4C31-8122-BAA22BACF4D3/9B32084C-B698-4CAE-94AA-A01A3F9D890F/458CF72E-65C0-42CA-83EA-8D4B16C2F087_stringValue",
-      "value": "員工管理"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0CC1D74D-839C-4C31-8122-BAA22BACF4D3/9B32084C-B698-4CAE-94AA-A01A3F9D890F/02111495-F07F-4FE5-989B-727DB9404F2B_stringValue",
-      "value": "員工管理"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "0CC1D74D-839C-4C31-8122-BAA22BACF4D3/9B32084C-B698-4CAE-94AA-A01A3F9D890F/6A2E6DF5-6F96-47F7-BE33-87D805DCFCDD_stringValue",
       "value": "員工管理"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0CC1D74D-839C-4C31-8122-BAA22BACF4D3/9B32084C-B698-4CAE-94AA-A01A3F9D890F_symbolID",
+      "value": "85AEE18C-9CAD-49F4-9F7F-2BAA930453CE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEEBF045-9C1B-47A1-8420-D1E134D52B47_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F3A47F7-E0CB-44BE-A8C5-BF2A120E9002_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E72D535-9E92-4AF1-993E-16A492C27106/9B32084C-B698-4CAE-94AA-A01A3F9D890F/458CF72E-65C0-42CA-83EA-8D4B16C2F087_stringValue",
+      "value": "客戶管理"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF6182FD-98BF-4EEA-ABA8-945BD52C2C9E/9B32084C-B698-4CAE-94AA-A01A3F9D890F/458CF72E-65C0-42CA-83EA-8D4B16C2F087_stringValue",
+      "value": "名單管理"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D113ACA7-2F45-4BD8-AE06-C76D109C0872/9B32084C-B698-4CAE-94AA-A01A3F9D890F/458CF72E-65C0-42CA-83EA-8D4B16C2F087_stringValue",
+      "value": "上課記錄"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA67C092-6B58-47C0-9B5C-F1563D5A373E/9B32084C-B698-4CAE-94AA-A01A3F9D890F/458CF72E-65C0-42CA-83EA-8D4B16C2F087_stringValue",
+      "value": "基本設定"
     }
   ],
   "resizingConstraint": 63,

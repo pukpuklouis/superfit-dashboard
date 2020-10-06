@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -36,7 +36,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "02111495-F07F-4FE5-989B-727DB9404F2B",
+  "do_objectID": "AE92083F-F428-4C37-AAA8-B138262B906A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,7 +55,7 @@
     "x": 0,
     "y": -2
   },
-  "glyphBounds": "{{0, 6}, {31, 12}}",
+  "glyphBounds": "{{15, 6}, {31, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E527F99D-E4AD-41BB-A015-B3ABAA8D0D04",
+    "do_objectID": "9BA0C39D-B148-4970-B335-4552CEEB61B0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -134,7 +134,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

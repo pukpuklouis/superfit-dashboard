@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 33,
-    "x": 14,
-    "y": 1
+    "width": 60,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 5}, {25, 10}}",
+  "glyphBounds": "{{18, 5}, {25, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "↳ ✏️ Value",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -134,7 +134,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

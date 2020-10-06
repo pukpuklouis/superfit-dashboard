@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B32084C-B698-4CAE-94AA-A01A3F9D890F",
+  "do_objectID": "884006AE-587F-4044-AE2A-29B56F661789",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 73,
-    "x": 4,
-    "y": 32
+    "height": 150,
+    "width": 267,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,8 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Base/Text/Black #3",
+  "layerListExpandedType": 2,
+  "name": "Component/Card/Appointment",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "17894A43-BD07-4EDB-B677-AEF392B72A96",
+    "do_objectID": "A5FEDEA2-09EE-4EDF-9905-7B0A38A45F56",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E1D139A2-9827-421C-BBA9-043BEE6B13B1",
+  "symbolID": "1B46C770-36B3-4EFC-9D52-2F69305CD710",
   "verticalSpacing": 0
 }

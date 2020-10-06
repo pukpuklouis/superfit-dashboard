@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 140,
+  "changeIdentifier": 850,
   "clippingMaskMode": 0,
-  "do_objectID": "C76E5102-A8A2-4E26-A5AE-BD435A57761C",
+  "do_objectID": "DB5C21B2-C811-4C54-BCD3-B6CB24ADAFD5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 60,
-    "x": 4220,
-    "y": 0
+    "height": 150,
+    "width": 267,
+    "x": 2949,
+    "y": 367
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,7 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,20 +50,76 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "0F84024D-6724-46A9-B1AD-CC23D643CEED"
+    },
+    {
       "class": "text",
-      "id": "9E47E70A-9E0A-4DD6-A95F-87028B7AB456"
+      "id": "26083A57-49FD-4FE0-908C-9365F4318177"
+    },
+    {
+      "class": "text",
+      "id": "5B8E9427-902F-4982-81CE-D7B9E8430E1F"
+    },
+    {
+      "class": "text",
+      "id": "0C3605B1-5D76-463C-9EC2-E98B12AE8955"
+    },
+    {
+      "class": "text",
+      "id": "D71A7D4E-F4D8-42C2-A819-ADC33DCB7674"
     }
   ],
-  "name": "Base/Text/Blue Left",
+  "name": "Component/Card/Appointment",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9E47E70A-9E0A-4DD6-A95F-87028B7AB456_stringValue"
+      "overrideName": "013201AC-82E0-46BD-9F45-8318F6F396B6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8BEE9A5-E9A3-4700-9011-A82516D5F6F1_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8BEE9A5-E9A3-4700-9011-A82516D5F6F1_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7D01C1D0-8D69-4C0B-93AD-0D30848B1F31_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FAFC4FFF-1CB8-497E-8183-9FFC8CA209B5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "315358B5-1635-40D4-9612-D4E82FB94E50_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD201F96-81BC-4BA6-988A-F1655200470B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD201F96-81BC-4BA6-988A-F1655200470B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FAFC4FFF-1CB8-497E-8183-9FFC8CA209B5_textStyle"
     }
   ],
   "presetDictionary": {
@@ -107,7 +163,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "93DFFC6C-8030-4871-9614-60FFA5BCBC03",
+    "do_objectID": "42B4B125-BF2D-431D-8FD0-8D46A2DD3D0F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +175,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0F5737FD-5A77-4F56-9C52-8066EA61ED31",
+  "symbolID": "1B46C770-36B3-4EFC-9D52-2F69305CD710",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
