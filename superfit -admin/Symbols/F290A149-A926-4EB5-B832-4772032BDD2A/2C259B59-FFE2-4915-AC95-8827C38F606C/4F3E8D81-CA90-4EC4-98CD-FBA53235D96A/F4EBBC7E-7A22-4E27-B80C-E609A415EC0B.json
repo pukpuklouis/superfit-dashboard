@@ -1,0 +1,134 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4EBBC7E-7A22-4E27-B80C-E609A415EC0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 264,
+    "x": 353,
+    "y": 101
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Card Kanban",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "17736716-22FF-4963-9B73-B9C190AA6052/120F49C1-B3E4-493E-964D-CDF01BA041E5_symbolID",
+      "value": "BDC957AC-3A4C-4D23-96BF-4806B608704D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B30BF4EC-62C3-4BC3-AFC6-4D07E16D9166/4FF4D5FE-FFF2-444A-A11D-AC6C35251CC4_stringValue",
+      "value": "Bliss"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B30BF4EC-62C3-4BC3-AFC6-4D07E16D9166/8496DE1F-EFA7-46C4-A4DE-B7F624DE9BC9_stringValue",
+      "value": "$199"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B30BF4EC-62C3-4BC3-AFC6-4D07E16D9166/8B6D58F2-2E3F-40B6-8A28-FCCBA596A0F4_stringValue",
+      "value": "Engine check-up"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "871CAC3C-ED76-4FC0-95C1-89AED4921D92",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 30,
+        "color": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0.3019607843137255,
+          "green": 0.2196078431372549,
+          "red": 0.1803921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B57A71FA-1892-4C72-9491-2D999009AD53",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

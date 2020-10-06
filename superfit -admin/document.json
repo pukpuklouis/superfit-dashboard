@@ -1,0 +1,146 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "4FBFC449-E8C4-4F43-96BE-C4B1DC750050",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "E6A4707B-8DD7-4F9F-AB8B-759E5C57D747",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0CA2FA70-4B84-4807-95E9-CDCF67B0FC00",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKtc-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "278FE013-E7BE-4A07-B64C-3C26C8123424",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansCJKtc-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2B798453-6E55-4655-A10D-A1638E8EB38B",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansCJKtc-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8A49277B-B1EE-43D9-90E7-C941F9DCB5D4",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKtc-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8E184B86-0EC2-42EA-84ED-874CAB9AD0C8",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKtc-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A346ED6D-6EE3-4D9D-9257-DDD7A97C7E43",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-Light.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansCJKtc-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C6589965-8DCF-4132-A780-D8184300EB49",
+      "fontFamilyName": "Noto Sans CJK TC",
+      "fontFileName": "NotoSansCJKtc-DemiLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKtc-DemiLight"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "📝基本資料",
+    "🖖🏼歡迎頁",
+    "🖥電腦網頁",
+    "📱iPad",
+    "Symbols",
+    "🚀components"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

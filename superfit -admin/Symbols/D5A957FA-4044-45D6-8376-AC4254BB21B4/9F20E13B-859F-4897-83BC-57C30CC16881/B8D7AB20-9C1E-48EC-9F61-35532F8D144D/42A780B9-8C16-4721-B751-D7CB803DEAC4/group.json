@@ -1,0 +1,190 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42A780B9-8C16-4721-B751-D7CB803DEAC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 624,
+    "x": 32,
+    "y": 48
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E828BA91-BED7-49EC-A0BA-422D20B38847"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA977A8F-B8B8-4760-B452-960FC9B08DC1"
+    },
+    {
+      "class": "oval",
+      "id": "AAB8341F-15D1-406D-9AA6-2645358068F5"
+    },
+    {
+      "class": "oval",
+      "id": "01BB9A8B-D6C7-4E67-9B49-8AF82FD22861"
+    },
+    {
+      "class": "oval",
+      "id": "5A7A0EB3-E844-48FE-8934-07D7010F141B"
+    },
+    {
+      "class": "oval",
+      "id": "CEE12AD0-DD67-4CB6-88E7-A5104D4DF41C"
+    },
+    {
+      "class": "oval",
+      "id": "57467700-FF23-4FC7-A070-411CEB392F75"
+    },
+    {
+      "class": "oval",
+      "id": "393B867A-B4E8-48B6-8B19-FE31B1D0D1B0"
+    },
+    {
+      "class": "oval",
+      "id": "E7CA6CDC-B567-48DF-B0DF-3696778EADDF"
+    },
+    {
+      "class": "oval",
+      "id": "AB4A51BB-7841-4921-91F5-AB318E29EDD8"
+    },
+    {
+      "class": "oval",
+      "id": "94A57D35-96D6-471B-BB4A-BFBC464DCCA8"
+    },
+    {
+      "class": "oval",
+      "id": "18250E5F-A185-4AE8-920C-D52B6DAC987A"
+    },
+    {
+      "class": "oval",
+      "id": "699BE5A3-31F8-4C5C-876D-D2EAD5742328"
+    },
+    {
+      "class": "oval",
+      "id": "39A78D27-8258-49DA-BCAC-79887D6CF4B7"
+    },
+    {
+      "class": "oval",
+      "id": "096ADC10-C2FE-4C4C-A1B9-C59C0071086F"
+    },
+    {
+      "class": "oval",
+      "id": "D365C7D0-CD12-4413-AAC0-1A6DA335F0D9"
+    },
+    {
+      "class": "oval",
+      "id": "4C8E0454-49B1-4DA3-B1C5-E4612FE8E671"
+    },
+    {
+      "class": "oval",
+      "id": "38BD356E-D576-47E4-AF36-04F615BF6C54"
+    },
+    {
+      "class": "oval",
+      "id": "B608A374-4CA5-4F74-8D76-B9936A479239"
+    },
+    {
+      "class": "oval",
+      "id": "1B02BEE3-E1C0-4F2C-B44B-87BC4A330CD4"
+    },
+    {
+      "class": "oval",
+      "id": "260E7FA8-294E-4450-8F51-CCE8B6636664"
+    },
+    {
+      "class": "oval",
+      "id": "F5957757-B610-4491-909B-4987515654EE"
+    },
+    {
+      "class": "oval",
+      "id": "1B701E7A-F897-481E-AA9A-119F1C61FD37"
+    },
+    {
+      "class": "oval",
+      "id": "A50344B4-9FBB-4FD9-8F05-0B6F41280B83"
+    }
+  ],
+  "name": "Chart Figure",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "476E4FCE-C53F-4DFE-ACBC-26EF44B8FBDC",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

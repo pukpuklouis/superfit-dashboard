@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "58FC4E56-0786-4B41-9293-B64B2970273D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 23,
+    "width": 22,
+    "x": 4,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FD50D5B3-C419-49A2-834B-485B6F2AF04D"
+    },
+    {
+      "class": "shapePath",
+      "id": "FFC25ED6-73FC-46D3-B49D-FCC41C69B139"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E900911-E4CA-4B30-B34D-A42B6AB497E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "12EAA939-62F5-443F-AC8F-1AFB11A48F12"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB9170E1-05EB-4D8F-ABF7-816FA439A7B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9B375F4-AA02-489D-8EDC-AB18D6C33380"
+    },
+    {
+      "class": "shapePath",
+      "id": "171C8FF7-DAC7-4609-A5B4-BEF33273C3B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "011484CE-1422-4030-9C0B-C420D28D7E7B"
+    }
+  ],
+  "name": "slack-seeklogo.com",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EAB08FF0-3346-4C5D-A152-CF21C9B02B59",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_f40670ad-2e6e-418b-8453-a1e471712f61",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_92300422-91b1-4e6c-911f-06f4dd3b08e9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

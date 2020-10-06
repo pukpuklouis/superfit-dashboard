@@ -1,0 +1,138 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FA52357-6F80-475D-B705-C4EABF290E7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 708,
+    "x": 0,
+    "y": 366
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Content Row/Vehice Info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5035D997-B262-4D53-B883-CC4CCA1818F1_stringValue",
+      "value": "823"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B4FE6F-6250-4E8D-832A-86B3A538FA5A_stringValue",
+      "value": "08/27/2018"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6913B23B-9DA8-4334-8E41-378FEA60E8AF_stringValue",
+      "value": "#12014"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F10E5D27-2A4C-4D68-B42B-997EAFC8206D_stringValue",
+      "value": "553 kWh"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51BDFADF-8C18-4FEA-8C59-C2DF3E512D2B_stringValue",
+      "value": "Bliss"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "94CEABDD-2F4A-4C6B-A5D8-C61472DEBF10/2F6498EB-9A10-4AA2-9CB6-69B5537D12BC/9E47E70A-9E0A-4DD6-A95F-87028B7AB456_stringValue",
+      "value": "RS"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "94CEABDD-2F4A-4C6B-A5D8-C61472DEBF10/855FA0B0-CA82-4F6A-8312-74AD8D0BD715_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6b7ae35ae6e7cd7419106f8f27be3aa5e62807e9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3F719688-3B03-4FB5-B10D-AA65698EEECA_stringValue",
+      "value": "Audi RS 7"
+    }
+  ],
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "33521D8B-9A11-4448-AB23-F3A5D738634D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "067C0465-A2BD-4BF6-9F41-D0B219762CDC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

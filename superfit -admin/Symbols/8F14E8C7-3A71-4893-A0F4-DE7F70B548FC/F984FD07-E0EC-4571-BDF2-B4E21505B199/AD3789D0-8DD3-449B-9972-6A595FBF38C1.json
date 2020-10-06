@@ -1,0 +1,133 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD3789D0-8DD3-449B-9972-6A595FBF38C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 708,
+    "x": 0,
+    "y": 196
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Content Row/Vehice Info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5035D997-B262-4D53-B883-CC4CCA1818F1_stringValue",
+      "value": "125"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B4FE6F-6250-4E8D-832A-86B3A538FA5A_stringValue",
+      "value": "06/16/2018"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6913B23B-9DA8-4334-8E41-378FEA60E8AF_stringValue",
+      "value": "#12012"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F10E5D27-2A4C-4D68-B42B-997EAFC8206D_stringValue",
+      "value": "230 kWh"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51BDFADF-8C18-4FEA-8C59-C2DF3E512D2B_stringValue",
+      "value": "Eagle"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "94CEABDD-2F4A-4C6B-A5D8-C61472DEBF10/855FA0B0-CA82-4F6A-8312-74AD8D0BD715_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4dc9f0041ca7225748c4af06204689e2f2b8b005.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3F719688-3B03-4FB5-B10D-AA65698EEECA_stringValue",
+      "value": "BMW 7 Series"
+    }
+  ],
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "948A808E-FB33-4819-8AE8-4DFC63475303",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "067C0465-A2BD-4BF6-9F41-D0B219762CDC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
