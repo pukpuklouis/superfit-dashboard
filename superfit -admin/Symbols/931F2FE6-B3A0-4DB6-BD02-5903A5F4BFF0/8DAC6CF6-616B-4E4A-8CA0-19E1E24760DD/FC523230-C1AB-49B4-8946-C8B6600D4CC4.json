@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F2DB470B-02C3-459F-A7E9-61275A19B35B",
+  "do_objectID": "FC523230-C1AB-49B4-8946-C8B6600D4CC4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 1360,
-    "x": 80,
-    "y": 0
+    "height": 44,
+    "width": 314,
+    "x": 25,
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,16 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Component/Navigation/Top Bar",
-  "nameIsFixed": true,
+  "name": "Component/Content Row/Driver",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B6800FEF-0328-4F73-AEC3-822F8095BA17_symbolID",
-      "value": "4E2C4E67-C7DC-48EB-9CA6-CFB95FD0D6C2"
+      "overrideName": "B5F56722-2B26-4C55-9D72-271B5A002211_stringValue",
+      "value": "1,232 miles"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D6CB60E8-25FF-45D5-BCC0-4AA183C5B1C4_stringValue",
+      "value": "Volvo Intellisafe"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA4EC09-A9AF-482D-B1E2-AAF78BE0C201",
+    "do_objectID": "554D6033-666E-412F-8639-C3E2318CCD67",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +93,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EC04B4C3-E62B-4F3E-9A08-4845F5B71443",
+  "symbolID": "BF3FDFE1-D4A4-40AD-B65F-2EC0396E1917",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

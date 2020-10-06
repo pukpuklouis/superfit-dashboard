@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "884006AE-587F-4044-AE2A-29B56F661789",
+  "do_objectID": "EF31411E-95A1-4FD4-9DE5-6DA36339BB53",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 150,
     "width": 267,
-    "x": 0,
-    "y": 0
+    "x": 442,
+    "y": 98
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,10 +27,25 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Component/Card/Appointment",
-  "nameIsFixed": false,
+  "layerListExpandedType": 0,
+  "name": "Component/Card/Appointment2",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD201F96-81BC-4BA6-988A-F1655200470B_stringValue",
+      "value": "陳一書"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26083A57-49FD-4FE0-908C-9365F4318177_stringValue",
+      "value": "0969886332"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B8E9427-902F-4982-81CE-D7B9E8430E1F_stringValue",
+      "value": "2020/10/10 09:00"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A5FEDEA2-09EE-4EDF-9905-7B0A38A45F56",
+    "do_objectID": "3E78DFB5-930D-4BE6-A8C0-D868061642A7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,5 +99,26 @@
     "windingRule": 1
   },
   "symbolID": "1B46C770-36B3-4EFC-9D52-2F69305CD710",
+  "userInfo": {
+    "com.syncify.sketch.contentsync": {
+      "overrides": {
+        "0000000000/stringValue": {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet.custom": 1
+        },
+        "NAME/stringValue": {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet.custom": 1
+        },
+        "appointment date/stringValue": {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet.custom": 1
+        }
+      },
+      "syncs": {
+        "enabled": 1
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 791,
+  "changeIdentifier": 842,
   "clippingMaskMode": 0,
-  "do_objectID": "6D35E9D0-2805-48AF-A97A-622CCE35FAD6",
+  "do_objectID": "DA3A8DB2-3AD7-4A05-A051-85744A280258",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
     "height": 48,
     "width": 280,
     "x": 21432,
-    "y": 0
+    "y": 86
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,69 +56,69 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "B30B5294-FADD-47D2-9AA6-B5BE246438E7"
+      "id": "D23A22DD-4F3F-49FF-92C2-6621A4D0638C"
     },
     {
       "class": "group",
-      "id": "503688D0-9093-4408-BDED-E57B350D2C2F"
+      "id": "3A7C21C5-1178-4911-B608-73491C473C89"
     }
   ],
-  "name": "Component/Content/Driver",
-  "nameIsFixed": false,
+  "name": "Component/Content/Coach",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F0D1AE44-DADC-433A-94CB-1047B350DF35_stringValue"
+      "overrideName": "78B83604-6993-489F-AC35-6DBB70934E4E_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BDD4EAF9-3DCD-4BF2-9867-95351E0B2EF3_image"
+      "overrideName": "F209183C-C423-4833-8339-83C6D195F91C_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B5F56722-2B26-4C55-9D72-271B5A002211_textStyle"
+      "overrideName": "DEC9AA30-6494-4C06-A7B3-1374BEE1DDA9_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F0D1AE44-DADC-433A-94CB-1047B350DF35_textStyle"
+      "overrideName": "78B83604-6993-489F-AC35-6DBB70934E4E_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "705E0BAB-7079-4E6B-B90B-3257FF4843E4_stringValue"
+      "overrideName": "34FD3C53-FA4D-424A-B192-F7A5F977D45A_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D6CB60E8-25FF-45D5-BCC0-4AA183C5B1C4_textStyle"
+      "overrideName": "DEC9AA30-6494-4C06-A7B3-1374BEE1DDA9_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F545A06B-9DE0-4A49-AF6A-251FFB836985_stringValue"
+      "overrideName": "9C07D58A-D69A-4F7F-9276-7FAFCD57F494_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D6CB60E8-25FF-45D5-BCC0-4AA183C5B1C4_stringValue"
+      "overrideName": "9C07D58A-D69A-4F7F-9276-7FAFCD57F494_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B5F56722-2B26-4C55-9D72-271B5A002211_stringValue"
+      "overrideName": "F209183C-C423-4833-8339-83C6D195F91C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F545A06B-9DE0-4A49-AF6A-251FFB836985_textStyle"
+      "overrideName": "3C89A746-5EAC-4BF6-8CB5-6890ED831606_image"
     }
   ],
   "presetDictionary": {
@@ -162,7 +162,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2298A5B2-6F69-4AA1-9598-87E758A538A9",
+    "do_objectID": "E9C3263D-9994-4525-AD6C-990BF802C8AD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -174,7 +174,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BF3FDFE1-D4A4-40AD-B65F-2EC0396E1917",
+  "symbolID": "C564F988-D085-45D8-969E-4A5BB93D6E0E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

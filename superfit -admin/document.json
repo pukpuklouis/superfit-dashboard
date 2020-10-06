@@ -141,6 +141,203 @@
     },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.syncify.sketch.contentsync": {
+      "ContentSync-DeletedLayers": [
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        },
+        {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet": "date-time"
+        },
+        {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet": "phone"
+        },
+        {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet": "name"
+        }
+      ],
+      "ContentSyncProject": {
+        "auth": {
+          "email": "pukpuk.tw@gmail.com",
+          "id": "e49916b9-1afd-4825-8568-909d0e7f430d",
+          "name": "Google",
+          "primary": 1,
+          "provider": "google_oauth2",
+          "scopes": [
+            "https://www.googleapis.com/auth/drive.readonly",
+            "openid",
+            "https://www.googleapis.com/auth/userinfo.email",
+            "https://www.googleapis.com/auth/spreadsheets",
+            "https://www.googleapis.com/auth/userinfo.profile",
+            "https://www.googleapis.com/auth/drive.file"
+          ],
+          "status": "active"
+        },
+        "data_doc": {
+          "last_sync": {
+          },
+          "link": "1rRP_F459G0dxcxjyuFNsBgA7OE_WU7WrB43gafexhkw",
+          "name": "superFit content data",
+          "url": "https://docs.google.com/spreadsheets/d/1rRP_F459G0dxcxjyuFNsBgA7OE_WU7WrB43gafexhkw",
+          "valid": 1
+        },
+        "description": "",
+        "feature_flags": {
+          "has_synced": 1,
+          "include_object_id_and_path": 0,
+          "sheet_per_page": 0,
+          "sync_content_style": 1,
+          "sync_symbol_instance_types": 0,
+          "track_deleted_keys": 0
+        },
+        "google_doc": {
+          "last_sync": {
+          },
+          "link": "1rRP_F459G0dxcxjyuFNsBgA7OE_WU7WrB43gafexhkw",
+          "name": "superFit content data",
+          "url": "https://docs.google.com/spreadsheets/d/1rRP_F459G0dxcxjyuFNsBgA7OE_WU7WrB43gafexhkw",
+          "valid": 1
+        },
+        "id": "4281a68f-8df2-4f3a-bb75-0bac900302e9",
+        "last_activity": {
+          "account": {
+            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GieLfZUKRpeVR1ZdZr2WXNzns_-AdbVmOEVaE9mkw=s50",
+            "username": "pukpuktw"
+          },
+          "date": "2020-10-06T13:37:50Z",
+          "extra": "via Sketch.app",
+          "hash_reference": "153f457e",
+          "id": "153f457e-8a9e-409c-8614-75f2a576ccc0",
+          "img": "https://www.contentsync.com/assets/icon_action_pull-0d918c26b60f2eb61a4731a6b65b0fb7ca8a851fa1bb87b0ac7e55aac51da61f.png",
+          "label": "Sync",
+          "project_id": "4281a68f-8df2-4f3a-bb75-0bac900302e9",
+          "project_version": {
+            "activity_id": "153f457e-8a9e-409c-8614-75f2a576ccc0",
+            "activity_state": "done",
+            "id": "2054ad17-3a3d-4667-b625-c9a1bfc83f2f",
+            "name": "version1"
+          },
+          "state": "done",
+          "verb": "pulled"
+        },
+        "layer_key_transform_function": "Context -> Name",
+        "layer_sheet_transform_function": "Default Sheet",
+        "name": "superfit-admin_content_data",
+        "owner": {
+          "id": "b50d9f40-79b3-4a7f-806d-036c3e40924a",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GieLfZUKRpeVR1ZdZr2WXNzns_-AdbVmOEVaE9mkw=s50",
+          "username": "pukpuktw"
+        },
+        "role": {
+          "id": "08973b94-649e-4ffb-9e04-ef9babe53b84",
+          "project_id": "4281a68f-8df2-4f3a-bb75-0bac900302e9",
+          "role": "owner",
+          "user": {
+            "current_period_end": "2021-05-20T09:55:07.000-07:00",
+            "default_account": "",
+            "display_name": "",
+            "email": "pukpuk.tw@gmail.com",
+            "externally_managed": 0,
+            "hide_pricing": 0,
+            "id": "b50d9f40-79b3-4a7f-806d-036c3e40924a",
+            "legacy": 1,
+            "links": {
+              "self": "https://www.contentsync.com/api/v2/accounts/pukpuktw"
+            },
+            "plan_overview": {
+              "name": "Sync Lite",
+              "plan_id": "CONTENTSYNC-V2-FREE",
+              "sym": "free"
+            },
+            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GieLfZUKRpeVR1ZdZr2WXNzns_-AdbVmOEVaE9mkw=s50",
+            "type": "individual",
+            "username": "pukpuktw"
+          }
+        },
+        "state": "ready",
+        "status": "active",
+        "type": "ProjectPrivateGDoc"
+      },
+      "ContentSyncVersion": {
+        "activity": null,
+        "id": "2054ad17-3a3d-4667-b625-c9a1bfc83f2f",
+        "name": "version1",
+        "project_id": "4281a68f-8df2-4f3a-bb75-0bac900302e9",
+        "syncable_state": "enabled"
+      }
     }
   }
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2DB470B-02C3-459F-A7E9-61275A19B35B",
+  "do_objectID": "5D4AEEDE-ACDD-43BF-8E7F-8AA05DF09C8F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 1360,
-    "x": 80,
-    "y": 0
+    "height": 150,
+    "width": 267,
+    "x": 442,
+    "y": 273
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,14 +27,24 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Component/Navigation/Top Bar",
+  "layerListExpandedType": 2,
+  "name": "Component/Card/Appointment4",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B6800FEF-0328-4F73-AEC3-822F8095BA17_symbolID",
-      "value": "4E2C4E67-C7DC-48EB-9CA6-CFB95FD0D6C2"
+      "overrideName": "DD201F96-81BC-4BA6-988A-F1655200470B_stringValue",
+      "value": "鍾明江"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26083A57-49FD-4FE0-908C-9365F4318177_stringValue",
+      "value": "0965209186"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B8E9427-902F-4982-81CE-D7B9E8430E1F_stringValue",
+      "value": "2020/10/10 07:00"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA4EC09-A9AF-482D-B1E2-AAF78BE0C201",
+    "do_objectID": "DAF13E3E-DCA7-426F-BB8A-832B6F97F060",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +98,30 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EC04B4C3-E62B-4F3E-9A08-4845F5B71443",
+  "symbolID": "1B46C770-36B3-4EFC-9D52-2F69305CD710",
+  "userInfo": {
+    "com.syncify.sketch.contentsync": {
+      "overrides": {
+        "0000000000/stringValue": {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet.custom": 1
+        },
+        "NAME/stringValue": {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet.custom": 1
+        },
+        "appointment date/stringValue": {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet.custom": 1
+        }
+      },
+      "syncs": {
+        "enabled": 1
+      },
+      "type": {
+        "sheet.custom": 0
+      }
+    }
+  },
   "verticalSpacing": 0
 }

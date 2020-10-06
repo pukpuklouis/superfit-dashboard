@@ -17,27 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKtc-Regular",
-              "size": 13
+              "size": 15
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0.5,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "0000000000"
+    "string": "1,322 miles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "26083A57-49FD-4FE0-908C-9365F4318177",
+  "do_objectID": "F209183C-C423-4833-8339-83C6D195F91C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 78,
-    "x": 86,
-    "y": 99
+    "height": 22,
+    "width": 88,
+    "x": 0,
+    "y": 22
   },
-  "glyphBounds": "{{0, 5}, {77, 11}}",
+  "glyphBounds": "{{10, 5}, {78, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,13 +65,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 3,
-  "name": "0000000000",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "lineSpacingBehaviour": 2,
+  "name": "1 322 miles",
+  "nameIsFixed": true,
+  "resizingConstraint": 14,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DAD8B0BD-F65B-4830-B7B4-92CF6B301543",
+  "sharedStyleID": "10AF52C1-58C6-43B0-BF20-CCC1684DA585",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -106,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "26B89B70-F3CF-489D-92CA-98DF86C7012D",
+    "do_objectID": "4D85038B-899D-4871-A441-313F8702D605",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,20 +131,28 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKtc-Regular",
-            "size": 13
+            "size": 15
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 0.5,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

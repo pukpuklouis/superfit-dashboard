@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 230,
     "width": 558,
-    "x": 151,
-    "y": 94
+    "x": 735,
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,8 +29,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Module/Card/Welcome",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7B75CD1-1703-4406-8FDE-E384FF03B204_stringValue",
+      "value": "歡迎來到西門店"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

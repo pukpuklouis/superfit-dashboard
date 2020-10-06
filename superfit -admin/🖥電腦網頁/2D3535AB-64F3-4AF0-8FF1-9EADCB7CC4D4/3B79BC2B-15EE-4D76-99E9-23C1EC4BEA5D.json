@@ -29,7 +29,7 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "name": "Component/Navigation/Left Bar",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

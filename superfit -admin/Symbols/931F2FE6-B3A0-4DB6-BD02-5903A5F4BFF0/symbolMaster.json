@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 791,
+  "changeIdentifier": 589,
   "clippingMaskMode": 0,
-  "do_objectID": "6D35E9D0-2805-48AF-A97A-622CCE35FAD6",
+  "do_objectID": "931F2FE6-B3A0-4DB6-BD02-5903A5F4BFF0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 280,
-    "x": 21432,
-    "y": 0
+    "height": 450,
+    "width": 364,
+    "x": 4362,
+    "y": 1627
   },
   "grid": {
     "_class": "simpleGrid",
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,69 +56,50 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "B30B5294-FADD-47D2-9AA6-B5BE246438E7"
-    },
-    {
-      "class": "group",
-      "id": "503688D0-9093-4408-BDED-E57B350D2C2F"
+      "id": "8DAC6CF6-616B-4E4A-8CA0-19E1E24760DD"
     }
   ],
-  "name": "Component/Content/Driver",
-  "nameIsFixed": false,
+  "name": "Module/Card/Coach List Small",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F0D1AE44-DADC-433A-94CB-1047B350DF35_stringValue"
+      "overrideName": "FE07BD19-94FB-4947-A478-3973C945BE71_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BDD4EAF9-3DCD-4BF2-9867-95351E0B2EF3_image"
+      "overrideName": "2F15ABCB-293D-4AEF-B52B-0DEA403425DF_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B5F56722-2B26-4C55-9D72-271B5A002211_textStyle"
+      "overrideName": "97CC8F7B-EC39-4389-AE0C-5693C1C1F68C_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F0D1AE44-DADC-433A-94CB-1047B350DF35_textStyle"
+      "overrideName": "23621FEF-F904-4F5E-AC55-4C0CD8DF030A_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "705E0BAB-7079-4E6B-B90B-3257FF4843E4_stringValue"
+      "overrideName": "AE392B10-FEEE-4280-B0EE-E66CFB371376_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D6CB60E8-25FF-45D5-BCC0-4AA183C5B1C4_textStyle"
+      "overrideName": "FC523230-C1AB-49B4-8946-C8B6600D4CC4_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F545A06B-9DE0-4A49-AF6A-251FFB836985_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D6CB60E8-25FF-45D5-BCC0-4AA183C5B1C4_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B5F56722-2B26-4C55-9D72-271B5A002211_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F545A06B-9DE0-4A49-AF6A-251FFB836985_textStyle"
+      "overrideName": "1EEC9BE4-3C76-4DE3-BC70-F3D379C310C3_symbolID"
     }
   ],
   "presetDictionary": {
@@ -162,7 +143,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2298A5B2-6F69-4AA1-9598-87E758A538A9",
+    "do_objectID": "17BEA56C-34EF-498E-AF3B-C3567C26B2A9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -174,7 +155,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BF3FDFE1-D4A4-40AD-B65F-2EC0396E1917",
+  "symbolID": "4F7CCC9F-1935-4EC8-B335-BF0AB8E409C8",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

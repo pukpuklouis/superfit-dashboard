@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1FCA40BF-BF33-4FBF-80E4-CEE9698461C6",
+  "do_objectID": "79E6D2E6-B961-4F84-AECC-A674AEAB9BDB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,31 +17,40 @@
     "constrainProportions": false,
     "height": 150,
     "width": 267,
-    "x": 735,
-    "y": 94
+    "x": 150,
+    "y": 98
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 1,
+  "name": "Component/Card/Appointment1",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "884006AE-587F-4044-AE2A-29B56F661789"
+      "_class": "overrideValue",
+      "overrideName": "DD201F96-81BC-4BA6-988A-F1655200470B_stringValue",
+      "value": "吳明娟"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B8E9427-902F-4982-81CE-D7B9E8430E1F_stringValue",
+      "value": "2020/10/10 05:00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26083A57-49FD-4FE0-908C-9365F4318177_stringValue",
+      "value": "0901431610"
     }
   ],
-  "name": "Component/Card/Appointment",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E86AA9DE-E040-4E36-B890-0100745FD402",
+    "do_objectID": "31816C0F-2CD1-4815-9142-631B922FAE7F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,40 +98,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "1B46C770-36B3-4EFC-9D52-2F69305CD710",
   "userInfo": {
-    "com.bohemiancoding.sketchtool.detach": {
-      "symbolInstance": {
-        "do_objectID": "FA111982-BC02-4163-BE44-A8D3062C5D1F",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 150,
-          "width": 267,
-          "x": 735,
-          "y": 94
+    "com.syncify.sketch.contentsync": {
+      "overrides": {
+        "0000000000/stringValue": {
+          "key": "Component/Card/Appointment -> 0000000000",
+          "sheet.custom": 1
+        },
+        "NAME/stringValue": {
+          "key": "Component/Card/Appointment -> NAME",
+          "sheet.custom": 1
+        },
+        "appointment date/stringValue": {
+          "key": "Component/Card/Appointment -> appointment date",
+          "sheet.custom": 1
         }
       },
-      "symbolMaster": {
-        "do_objectID": "00F413BE-5D0C-421B-BA83-8FDDFCF41AFD",
-        "symbolID": "CFE1B398-0364-48CF-91E0-AC58310DD04E"
-      }
-    },
-    "com.sketch.detach": {
-      "symbolInstance": {
-        "do_objectID": "FA111982-BC02-4163-BE44-A8D3062C5D1F",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 150,
-          "width": 267,
-          "x": 735,
-          "y": 94
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "00F413BE-5D0C-421B-BA83-8FDDFCF41AFD",
-        "symbolID": "CFE1B398-0364-48CF-91E0-AC58310DD04E"
+      "syncs": {
+        "enabled": 1
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }
