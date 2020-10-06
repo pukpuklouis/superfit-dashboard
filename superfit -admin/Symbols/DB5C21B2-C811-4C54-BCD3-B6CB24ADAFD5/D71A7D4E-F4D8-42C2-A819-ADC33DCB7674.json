@@ -24,7 +24,7 @@
           "kerning": 1.125,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -137,7 +137,7 @@
         "kerning": 1.125,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
